@@ -17,7 +17,7 @@ O conjunto de dados utilizado contém informações sobre os passageiros do Tita
 - `Survived`: Indica se o passageiro sobreviveu (1) ou não (0).
 - `Pclass`: Classe de embarque (1ª, 2ª ou 3ª classe).
 - `Name`: Nome do passageiro.
-- `Sex`: Sexo do passageiro.
+- `Sex`: Gênero do passageiro.
 - `Age`: Idade do passageiro.
 - `SibSp`: Número de irmãos/cônjuges a bordo.
 - `Parch`: Número de pais/filhos a bordo.
